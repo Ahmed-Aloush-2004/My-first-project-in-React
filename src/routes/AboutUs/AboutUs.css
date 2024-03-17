@@ -1,0 +1,29 @@
+.about-container {
+    margin: 4rem 6rem;
+    text-align: center;
+    /* background-color: red; */
+}
+
+.bout-container h1 {
+    padding-bottom: 1rem;
+}
+
+.bout-container p {
+    padding-bottom: 2rem;
+}
+
+@media screen and (max-width:850px){
+    .bout-container {
+        margin: 4rem 2rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
